@@ -14,5 +14,5 @@
 
 
 - Used Targets:
-  - ![Drums](https://i.imgur.com/E4KR5zZ.jpg=50x)
+  - ![Drums](https://i.imgur.com/E4KR5zZ.jpg =100x20)
  
