@@ -1,6 +1,6 @@
 # ARMusic
 
-[![ARMusic](https://i.imgur.com/I6aRKrR.png=250x)](https://www.youtube.com/watch?v=sUBnw9nx9Kw&feature=youtu.be "ARMusic")
+[![ARMusic](https://i.imgur.com/I6aRKrR.png=200x)](https://www.youtube.com/watch?v=sUBnw9nx9Kw&feature=youtu.be "ARMusic")
 
  
  
