@@ -1,6 +1,6 @@
 # ARMusic
 
-[![ARMusic](https://i.imgur.com/I6aRKrR.png=200x)](https://www.youtube.com/watch?v=sUBnw9nx9Kw&feature=youtu.be "ARMusic")
+[![ARMusic](https://i.imgur.com/I6aRKrR.png=100x)](https://www.youtube.com/watch?v=sUBnw9nx9Kw&feature=youtu.be "ARMusic")
 
  
  
@@ -13,6 +13,6 @@
 
 
 
-- Status:
-  - ![Status](https://i.imgur.com/QJKj9o2.png)
+- Used Targets:
+  - ![Drums](https://imgur.com/a/5hOcHCy.png)
  
