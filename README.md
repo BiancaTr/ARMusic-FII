@@ -14,5 +14,5 @@
 
 
 - Used Targets:
- <img src="https://i.imgur.com/E4KR5zZ.jpg" width="100" height="20">
+ <img src="https://i.imgur.com/E4KR5zZ.jpg" width="100" height="100">
  
