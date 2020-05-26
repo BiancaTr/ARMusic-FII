@@ -8,7 +8,7 @@
   - The app uses target recognition to play a certain song/instrument when the image is found, stop it when the target is lost and replay it once its found again.
  
 - Specs:
-  - Unity Video game engine
+  - Unity 
   - Programming language: C#
 
 
